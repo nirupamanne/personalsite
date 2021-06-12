@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>❤Nirupa's Personal Site❤</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  </head>
+
+  <body>
+    <img src="Images/Nirupa Photo.png" alt="Nirupa Picture" Width="300" height="300">
+    <h1>Nirupa </h1>
+    <p>Founder and STO of <strong>SV Engineering College For Women</strong>.</em></p>
+    <p>I am a web Developer. I like reading books. I Fond of Watching Movies.</p>
+      <hr>
+      <h3><b>Education</b></h3>
+      <ul>
+        <li><b>Batchlore of Technology</b></li>
+      <ul>
+        <li>ECE - 77% - Sri Venkateswara Engineering College For Women</li>
+      </ul>
+        <li><b>Intermediate</b></li>
+        <ul>
+        <li>MPC - 92% - Narayana Junior College</li>
+      </ul>
+        <li><b>Secondary School</b></li>
+      <ul>
+        <li>SSC- 73% - Z.P.P.High School South Mopur</li>
+      </ul>
+
+      </ul>My Hobbies</h3>
+      <ol>
+        <li>Reading Books</li>
+        <li>Listening to Music</li>
+        <li>Playing Games</li>
+      </ol>
+  </body>
+  </html>
